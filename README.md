@@ -8,7 +8,7 @@ Utilizamos el framework de bootstrap [bootstrap](https://getbootstrap.com/docs/5
 
 ## Contribución
 
-Realizado por el grupo g67 y colaborara felipe en 5 minutos
+Realizado por el grupo g67 y colaborara felipe en 5 minutos y con el apoyo de ruth
 
 ## Deploy
 
